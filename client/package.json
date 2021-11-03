@@ -18,7 +18,7 @@
     "polka": "next",
     "sirv": "^0.4.0",
     "svelte-bulma-lib": "^1.0.1",
-    "validator": "^12.2.0"
+    "validator": "^13.7.0"
   },
   "devDependencies": {
     "npm-run-all": "^4.1.5",
